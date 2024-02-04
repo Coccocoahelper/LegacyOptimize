@@ -13,7 +13,7 @@
   },
   "icon": "assets/legacyenhance/icon.png",
   "accessWidener": "legacyenhance.accesswidener",
-  "license": "CC-BY-NC-SA",
+  "license": "LGPLv3",
   "environment": "client",
   "entrypoints": {
     "client": [

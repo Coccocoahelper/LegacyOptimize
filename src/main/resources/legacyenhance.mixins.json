@@ -67,6 +67,7 @@
     "krypton.pipeline.compression.ClientConnectionMixin",
     "krypton.pipeline.LegacyQueryHandlerMixin",
     "krypton.PacketByteBufMixin",
+    "languagereload.LanguageOptionsScreenMixin",
     "legacyenhance.GameMenuScreenMixin",
     "legacyenhance.TitleScreenMixin",
     "lithium.alloc.PistonBlockMixin",
