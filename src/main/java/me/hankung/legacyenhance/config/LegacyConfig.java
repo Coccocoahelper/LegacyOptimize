@@ -76,7 +76,6 @@ public class LegacyConfig extends ConfigHolder {
 			generalBetterRomanNumerals,
 			generalCleanView,
 			generalFullBright,
-			generalHitDelayFix,
 			generalNoAchievement,
 			generalNumericalEnchants
 		);
@@ -84,13 +83,6 @@ public class LegacyConfig extends ConfigHolder {
 		bugfixes.add(
 			bugfixesAlexArmsFix,
 			bugfixesResourceExploit
-		);
-
-		betterchat.add(
-			betterEnabled,
-			betterchatCompact,
-			betterchatTransparent,
-			betterchatAnimate
 		);
 
 		performance.add(

@@ -24,6 +24,7 @@
     "bettersmoothlighting.BlockModelRendererMixin",
     "brightnessfix.EntityMixin",
     "brightnessfix.StuckArrowsFeatureRendererMixin",
+    "babysheepwoolcolor.SheepEntityMixin",
     "cachedisplayname.EntityMixin",
     "cachedisplayname.ItemStackMixin",
     "cachedisplayname.PlayerEntityMixin",
@@ -124,7 +125,6 @@
     "splitremnantsfix.HandledScreenMixin",
     "sprintparticlefix.EntityMixin",
     "staticparticlecolor.ParticleMixin",
-    "surge.SheepEntityMixin",
     "unclosedstream.ThreadedAnvilChunkStorageMixin",
     "uselessanimations.OtherClientPlayerEntityMixin",
     "windowsimefix.ScreenMixin"
