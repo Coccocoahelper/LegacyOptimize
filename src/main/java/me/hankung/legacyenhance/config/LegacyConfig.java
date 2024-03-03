@@ -30,7 +30,7 @@ public class LegacyConfig extends ConfigHolder {
 	public final OptionCategory performance = new OptionCategory("Performance");
 	public final BooleanOption performanceBatchModel = new BooleanOption("Batch Model Rendering", true);
 	public final BooleanOption performanceDownscaleTexture = new BooleanOption("Downscale Texture", true);
-	// ----
+	// Entity Culling
 	public final OptionCategory performanceEntityCulling = new OptionCategory("Entity Culling", true);
 	public final BooleanOption performanceEntityCullingEnabled = new BooleanOption("enabled", true);
 	public final EnumOption performanceEntityCullingInterval = new EnumOption("Culling Interval", new String[]{"10", "25", "50"}, "10");

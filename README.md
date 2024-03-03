@@ -33,7 +33,7 @@ No, This mod only supports Minecraft version 1.8.9.
         - Mouse Bind Fix
         - Mouse Delay Fix
         - Open Pack Folder Fix
-        - Optifine Fix
+        - OptiFine Fix
         - Packet Spam Fix
         - Race Condition Fix
         - Resolve Button Click
@@ -44,7 +44,7 @@ No, This mod only supports Minecraft version 1.8.9.
         - Resource Exploit Fix
         - Scoreboard Fix
         - Screenstate Fix
-        - Sign spam Fix
+        - Sign Spam Fix
         - Sprint Particle Fix
 - Performance
     - including, but not limited to:
@@ -73,18 +73,16 @@ No, This mod only supports Minecraft version 1.8.9.
 - General
     - including, but not limited to:
         - Better Camera
-        - Better Chat
         - Better Keybind
         - Clean View
-        - Hit Delay Fix
         - Ingame Server Switcher
 
 ## Replacement Mods
 
 LegacyEnhance replicates the functionality provided by these mods, or serves as a superior alternative to them, rendering the use of these mods unnecessary.
 
-- **FPS Plus**
-- **Hit Delay Fix**
+- **Better FPS / FPS Plus**
+- **Mouse Delay Fix**
 - **Ingame Server Switcher**
 
 ## Recommended Mods
@@ -96,7 +94,6 @@ Mods that adds a screen for viewing a list of installed mods.
 Mods that can be used to run OptiFine on the Legacy Fabric Mod Loader. It does this by taking the official OptiFine mod and making it compatible with the Legacy Fabric Mod Loader at runtime. This project does not contain OptiFine, you must download it separately.
 
 ## Credits
-- [Better Chat](https://github.com/LlamaLad7/Better-Chat)
 - [Entity Culling](https://github.com/tr7zw/EntityCulling)
 - [Krypton](https://github.com/astei/krypton)
 - [Lithium](https://github.com/CaffeineMC/lithium-fabric)
