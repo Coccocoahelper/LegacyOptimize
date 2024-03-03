@@ -17,22 +17,14 @@ public class LegacyConfig extends ConfigHolder {
 	public final BooleanOption generalBetterKeybind = new BooleanOption("Better Keybind Handling", true);
 	public final BooleanOption generalBetterRomanNumerals = new BooleanOption("Better Roman Numerals", true);
 	public final BooleanOption generalCleanView = new BooleanOption("Clean View", false);
-	public final BooleanOption generalFullBright = new BooleanOption("FullBright", true);
-	public final BooleanOption generalHitDelayFix = new BooleanOption("Hit Delay Fix", true);
+	public final BooleanOption generalFullBright = new BooleanOption("Fullbright", true);
 	public final BooleanOption generalNoAchievement = new BooleanOption("No Achievement Notifications", false);
 	public final BooleanOption generalNumericalEnchants = new BooleanOption("Numerical Enchantments", false);
 
 	// Bug Fixes
 	public final OptionCategory bugfixes = new OptionCategory("Bug Fixes");
 	public final BooleanOption bugfixesAlexArmsFix = new BooleanOption("Alex Arm Position Fix", true);
-	public final BooleanOption bugfixesResourceExploit = new BooleanOption("Resource Exploit Fix", true);
-
-	// BetterChat
-	public final OptionCategory betterchat = new OptionCategory("Better Chat");
-	public final BooleanOption betterEnabled = new BooleanOption("enabled", true);
-    public final BooleanOption betterchatCompact = new BooleanOption("Compact", true);
-	public final BooleanOption betterchatTransparent = new BooleanOption("Transparent", false);
-    public final BooleanOption betterchatAnimate = new BooleanOption("Smooth", true);	
+	public final BooleanOption bugfixesResourceExploit = new BooleanOption("Resource Exploit Fix", true);	
 
 	// Performance
 	public final OptionCategory performance = new OptionCategory("Performance");
