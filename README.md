@@ -1,8 +1,8 @@
-# LegacyEnhance
+# Legacy Optimize
 
 ## Installation
 
-Download an artifact from the LegacyEnhance repository, click on [Actions](https://github.com/Hankung7183/LegacyEnhance/actions) under the repository name. In the left sidebar, click on the workflow you want to see. From the list of workflow runs, click on the name of the run to see its summary. Under Artifacts, click on the artifact you want to download. Extract the jar file from the zip archive and move it to the Minecraft mods folder.
+Download the JAR from the [Releases](https://github.com/Coccocoahelper/LegacyOptimize/releases) section, and then move it to the Minecraft mods folder.
 
 ## FAQ
 
@@ -10,7 +10,7 @@ Download an artifact from the LegacyEnhance repository, click on [Actions](https
 Yes, but this mod isn’t exactly a Patcher port. It’s a mod that combines features from many different mods to enhance Minecraft. In other words, it doesn’t just port Patcher, it ports multiple mods together into one all-in-one mod. However, porting mods to keep them identical to the original can be difficult and time-consuming.
 
 #### Can this mod be used with any version of Minecraft?
-No, This mod only supports Minecraft version 1.8.9.
+No, this mod only supports Minecraft version 1.8.9.
 
 ## Features
 
@@ -72,25 +72,21 @@ No, This mod only supports Minecraft version 1.8.9.
         - Useless Animations Fix
 - General
     - including, but not limited to:
-        - Better Camera
         - Better Keybind
-        - Clean View
-        - Ingame Server Switcher
 
 ## Replacement Mods
 
-LegacyEnhance replicates the functionality provided by these mods, or serves as a superior alternative to them, rendering the use of these mods unnecessary.
+LegacyEnhance replicates the functionality provided by these mods or serves as a superior alternative to them, rendering the use of these mods unnecessary.
 
 - **Better FPS / FPS Plus**
 - **Mouse Delay Fix**
-- **Ingame Server Switcher**
 
 ## Recommended Mods
 
 ### [ModMenu](https://github.com/BoogieMonster1O1/ModMenu)
 Mods that adds a screen for viewing a list of installed mods.
 
-### [OptiFabric](https://github.com/hYdos/OptiFabric)
+### [OptiFabric](https://modrinth.com/mod/legacy-optifabric)
 Mods that can be used to run OptiFine on the Legacy Fabric Mod Loader. It does this by taking the official OptiFine mod and making it compatible with the Legacy Fabric Mod Loader at runtime. This project does not contain OptiFine, you must download it separately.
 
 ## Credits
